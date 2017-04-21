@@ -1,0 +1,7 @@
+[Activity]
+name = CeibalRadio
+service_name = CeibalRadioActivity
+class = CeibalRadioActivity.CeibalRadioActivity
+icon = ceibalradio
+activity_version = 1
+show_launcher = yes
